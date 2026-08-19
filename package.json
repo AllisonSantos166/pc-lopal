@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/AllisonSantos166/pc-lopal/issues"
   },
-  "homepage": "https://github.com/AllisonSantos166/pc-lopal#readme"
+  "homepage": "https://github.com/AllisonSantos166/pc-lopal#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "1.4.10"
+  }
 }
