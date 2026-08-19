@@ -1,7 +1,6 @@
 # pc-lopal
 Repositório p/ armazerar os códigos da aula.
 
-docs: add desafios 1 a 4
 
 # Desafio 1
 
